@@ -1,0 +1,9 @@
+dado o determinado objeto:
+
+{
+    nome: "Cristiano Ronaldo",
+    numero: 7
+    historico: ["Real Madrid", "Al-Aluah-Akbar"]
+}
+
+Faça o gerenciamento de jogadores de futebol
